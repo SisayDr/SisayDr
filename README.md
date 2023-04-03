@@ -15,7 +15,7 @@
 ###### 🙄 <i>I'm not an expert in some of them, but I'll be soon! 💪 </i> 
  
   
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SisayDr&show_icons=true&locale=en&layout=compact&theme=dark) 
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SisayDr&show_icons=true&locale=en&layout=compact&theme=light) 
   
 <!--
 **SisayDr/SisayDr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
