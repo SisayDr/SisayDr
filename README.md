@@ -1,4 +1,4 @@
-### 👋 ሰላም, I'm Sisay Driba
+#👋 ሰላም, I'm Sisay Driba
 ## ✨ A web developer enthusiast ✨
 <!--
 **SisayDr/SisayDr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
