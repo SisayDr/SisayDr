@@ -1,6 +1,5 @@
 ### <p align="center">👋 ሰላም, my name is Sisay Driba</p>
 # <p align="center"><i>I'm an enthusiast web developer</i></p>
-#### <br />
 ### <div align="center">Languages and Frameworks I'm comfortable with 
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
