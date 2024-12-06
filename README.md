@@ -10,10 +10,10 @@
 ![!React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](	https://img.shields.io/badge/MySQL-02569B?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white)
-###### 🫣 <i>I'm not an expert in some of them, but I'll be soon! 💪🤠 </i> 
- 
-  
+![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white) 
+![NodeJs](https://img.shields.io/badge/NodeJs-%23E34F26.svg?style=for-the-badge&logo=nodejs&logoColor=white)
+![MONGODB](https://img.shields.io/badge/mongodb-%23E34F26.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SisayDr&show_icons=true&locale=en&layout=compact&theme=light)
  <br /><br />
  ![views](https://komarev.com/ghpvc/?username=sisaydr)
