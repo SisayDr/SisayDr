@@ -14,7 +14,7 @@
 ![NodeJs](https://img.shields.io/badge/NodeJs-%23E34F26.svg?style=for-the-badge&logo=nodejs&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/mongodb-%23E34F26.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SisayDr&show_icons=true&locale=en&layout=compact&theme=light)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-lang?username=SisayDr&show_icons=true&locale=en&layout=compact&theme=light)
  <br /><br />
  ![views](https://komarev.com/ghpvc/?username=sisaydr)
 
